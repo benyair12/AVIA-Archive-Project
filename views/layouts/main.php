@@ -1,5 +1,5 @@
 <?php
-//test
+//test 2
 /* @var $this \yii\web\View */
 /* @var $content string */
 
